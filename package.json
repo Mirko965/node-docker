@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mirko965/node-docker/issues"
   },
-  "homepage": "https://github.com/Mirko965/node-docker#readme"
+  "homepage": "https://github.com/Mirko965/node-docker#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
